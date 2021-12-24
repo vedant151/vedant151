@@ -1,6 +1,6 @@
 ### Hi there 👋, My self Vedant
 #### I am a Freelancer, Web Developer, API Developer
-![I am a Freelancer, Web Developer, API Developer](https://github.com/vedant151/vedant151/blob/main/gitreadmeimg.jpg)
+![I am a Freelancer, Web Developer, API Developer](https://github.com/vedant151/vedant151/blob/main/full_width_banner_gitREADME.jpg)
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I have been currently working on API Development and more productive stuff...
