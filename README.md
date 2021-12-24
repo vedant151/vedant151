@@ -1,6 +1,7 @@
 ### Hi there 👋, My self Vedant
 #### I am a Freelancer, Web Developer, API Developer
-![I am a Freelancer, Web Developer, API Developer](https://www.push10.com/wp-content/uploads/geneva-gloval-website-hero-design.jpg)
+![I am a Freelancer, Web Developer, API Developer](https://photomarksapp.com/blog/wp-content/uploads/2020/07/best-mac-apps-to-reduce-photo-size-1024x683.jpg)
+<!-- (https://www.push10.com/wp-content/uploads/geneva-gloval-website-hero-design.jpg) -->
 <!-- (https://github.com/vedant151/vedant151/blob/main/full_width_banner_gitREADME.jpg) -->
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
