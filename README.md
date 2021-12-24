@@ -5,6 +5,11 @@
 
 Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I have been currently working on API Development and more productive stuff...
 
+## Skills 
+* 💻 HTML / CSS / JS
+* 📳 API Development
+* 🔯 React
+
 Skills: C++/ C  / Python  / PHP/ MYSQL / JS / HTML / CSS
 
 - 🔭 I’m currently working on API Development 
