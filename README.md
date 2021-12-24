@@ -10,6 +10,9 @@ Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I
 
 Skills: C++/ C  / Python  / PHP/ MYSQL / JS / HTML / CSS
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vedant151)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vedantsabde/)  
+
 - 🔭 I’m currently working on API Development 
 - 🌱 I’m currently learning React , PHP  
 - 📫 How to reach me: vsabade326@gmail.com 
