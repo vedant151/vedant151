@@ -1,6 +1,7 @@
 ### Hi there 👋, My self Vedant
 #### I am a Freelancer, Web Developer, API Developer
-![I am a Freelancer, Web Developer, API Developer](https://github.com/vedant151/vedant151/blob/main/finalgif.webp)
+![I am a Freelancer, Web Developer, API Developer](https://github.com/vedant151/vedant151/blob/main/codefromhome_gif.webp)
+
 <!-- (https://github.com/vedant151/vedant151/blob/main/full_width_banner_gitREADME.jpg) -->
 <!-- (https://www.globetesting.com/wp-content/uploads/2011/10/full_width_banner_laptop.jpg) -->
 <!-- (https://photomarksapp.com/blog/wp-content/uploads/2020/07/best-mac-apps-to-reduce-photo-size-1024x683.jpg) -->
