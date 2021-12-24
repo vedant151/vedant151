@@ -2,7 +2,7 @@
 #### I am a Freelancer, Web Developer, API Developer
 
 ###  “Everything negative – pressure, challenges – is all an opportunity for me to rise.” 
-![I am a Freelancer, Web Developer, API Developer] (https://media.istockphoto.com/photos/dreams-dont-work-unless-you-do-inspiring-creative-motivation-quote-picture-id1350192262?b=1&k=20&m=1350192262&s=170667a&w=0&h=1VZGX4KmHkINbar4xCSsHaLmkaZGUCN-Bd_xkPeyl9I=)
+![I am a Freelancer, Web Developer, API Developer] (https://media.istockphoto.com/photos/"dreams don't work unless you do it"-inspiring-creative-motivation-quote-picture-id1350192262?b=1&k=20&m=1350192262&s=170667a&w=0&h=1VZGX4KmHkINbar4xCSsHaLmkaZGUCN-Bd_xkPeyl9I=)
 
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
