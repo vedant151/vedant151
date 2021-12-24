@@ -6,13 +6,11 @@ Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I
 
 Skills: C++/ C  / Python  / PHP/ MYSQL / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
 
 
-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant151&show_icons=true&theme=radical)
 
 
