@@ -25,4 +25,4 @@ Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I
 - 🔭 I’m currently working on API Development 
 - 🌱 I’m currently learning React, SpringBoot,  
 - 📫 How to reach me: vsabade326@gmail.com 
-- 😄 Pronouns: Versatile, Enthusiast, Nation Lover, Always Happy 
+- 😄 Pronouns: Versatile, Enthusiast, Always Happy 
