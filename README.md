@@ -12,8 +12,8 @@
 Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I have been currently working on API Development and more productive stuff...
 
 ## Skills 
-* 💻 HTML / CSS / JS
-* 📳 API Development
+* 💻 React / SpringBoot/ Java 
+* 📳 API Development / Backend Development
 * 🔯 React
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vedant151)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vedantsabde/)  
@@ -23,12 +23,6 @@ Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I
 <img src="https://github.com/vedant151/vedant151/blob/main/js.webp" width = "256" />
 
 - 🔭 I’m currently working on API Development 
-- 🌱 I’m currently learning React , PHP  
+- 🌱 I’m currently learning React, SpringBoot,  
 - 📫 How to reach me: vsabade326@gmail.com 
 - 😄 Pronouns: Versatile, Enthusiast, Nation Lover, Always Happy 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedant151&show_icons=true&theme=radical)
-
-
-
-
