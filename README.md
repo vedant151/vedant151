@@ -9,11 +9,11 @@
 
 <!-- (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
-Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I have been currently working on API Development and more productive stuff...
+Hey, Software Engineer 
 
 ## Skills 
 * 💻 React / SpringBoot/ Java 
-* 📳 API Development / Backend Development
+* 📳 API Development / Backend Development / Microservices / Docker / AWS
 * 🔯 React
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vedant151)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vedantsabde/)  
@@ -22,7 +22,7 @@ Hey, hi currently I am a Freelance Web Developer and a Engineering enthusiast. I
 <img src="https://github.com/vedant151/vedant151/blob/main/webdevGIF.gif" width = "256" /> <img src="https://github.com/vedant151/vedant151/blob/main/CSSgif.webp" width = "256" /> <img src="https://github.com/vedant151/vedant151/blob/main/finalgif.webp" width = "256" />  <img src="https://github.com/vedant151/vedant151/blob/main/Nodejs.webp" width = "256" />
 <img src="https://github.com/vedant151/vedant151/blob/main/js.webp" width = "256" />
 
-- 🔭 I’m currently working on API Development 
-- 🌱 I’m currently learning React, SpringBoot,  
+- 🔭 I’m currently working on Microservices, SpringBoot
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me: vsabade326@gmail.com 
 - 😄 Pronouns: Versatile, Enthusiast, Always Happy 
